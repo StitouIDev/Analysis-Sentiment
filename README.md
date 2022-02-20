@@ -1,3 +1,3 @@
 # Analysis-Sentiment
 analyze Text 
-Detect Cyberbullying with input text and classified
+Identify cyberbullying sentences by classifying it to kind, mean, encouraging and neutral.
